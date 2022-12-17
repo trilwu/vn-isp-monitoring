@@ -13,8 +13,6 @@ sites:
     url: http://speedtest4.hcmc.netnam.vn:8080
   - name: SCTV 
     url: http://hcm-speedtest01.sctv.com.vn:8080
-  - name: SPT
-    url: http://speedtest.sptcantho.com:8080
   - name: Vietnamobile
     url: http://vnmhcmspt1.vietnamobile.com.vn:8080
   - name: Viettel
