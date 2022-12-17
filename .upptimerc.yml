@@ -3,24 +3,34 @@ owner: upptime # Your GitHub organization or username, where this repository liv
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: CMC Telecom 
+    url: http://hcmspeedtest.cmctelecom.vn:8080
+  - name: FPT Telecom
+    url: http://speedtest.fpt.vn:8080
+  - name: Mobifone
+    url: http://sp1.mobifone.vn:8080
+  - name: NetNam
+    url: http://speedtest4.hcmc.netnam.vn:8080
+  - name: SCTV 
+    url: http://hcm-speedtest01.sctv.com.vn:8080
+  - name: SPT
+    url: http://speedtest.sptcantho.com:8080
+  - name: Vietnamobile
+    url: http://vnmhcmspt1.vietnamobile.com.vn:8080
+  - name: Viettel
+    url: http://speedtestkv3b.viettel.vn:8080
+  - name: VNPT
+    url: http://speedtest3.vtn.com.vn:8080
 
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  baseUrl: /vn-isp-monitoring
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: Vietnam ISP Latency Monitoring 
+  introTitle: "Công cụ theo dõi chất lượng đường truyền quốc tế các nhà mạng tại Việt Nam"
+  introMessage: Công cụ này sử dụng Github để đánh giá định kỳ chất lượng đường truyền quốc tế tới các máy chủ speedtest của các nhà mạng tại khu vực thành phố Hồ Chí Minh. Số liệu thu thập tự động này chỉ mang tính chất tham khảo.
   navbar:
     - title: Status
       href: /
