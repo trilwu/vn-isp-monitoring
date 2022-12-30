@@ -94,9 +94,9 @@
     "url": "http://vnmhcmspt1.vietnamobile.com.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/vnmhcmspt1.vietnamobile.com.vn.ico",
     "slug": "vietnamobile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 1248,
     "timeMonth": 966,
     "timeYear": 966,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-30": 0
+    }
   },
   {
     "name": "Viettel",
