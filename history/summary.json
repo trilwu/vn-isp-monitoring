@@ -40,28 +40,30 @@
     "url": "http://sp1.mobifone.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/sp1.mobifone.vn.ico",
     "slug": "mobifone",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.75%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 711,
     "timeDay": 756,
     "timeWeek": 722,
     "timeMonth": 704,
     "timeYear": 711,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-21": 4
+    }
   },
   {
     "name": "NetNam",
     "url": "http://speedtest4.hcmc.netnam.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest4.hcmc.netnam.vn.ico",
     "slug": "net-nam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
     "time": 864,
@@ -70,6 +72,7 @@
     "timeMonth": 847,
     "timeYear": 864,
     "dailyMinutesDown": {
+      "2023-01-21": 2,
       "2023-01-11": 25
     }
   },
@@ -116,27 +119,29 @@
     "url": "http://speedtestkv3b.viettel.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtestkv3b.viettel.vn.ico",
     "slug": "viettel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 3154,
-    "timeDay": 5057,
+    "timeDay": 5023,
     "timeWeek": 2984,
     "timeMonth": 3129,
     "timeYear": 3154,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-21": 1
+    }
   },
   {
     "name": "VNPT",
     "url": "http://speedtest3.vtn.com.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest3.vtn.com.vn.ico",
     "slug": "vnpt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -145,6 +150,8 @@
     "timeWeek": 866,
     "timeMonth": 937,
     "timeYear": 922,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-21": 0
+    }
   }
 ]
