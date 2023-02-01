@@ -59,18 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest4.hcmc.netnam.vn.ico",
     "slug": "net-nam",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.95%",
+    "uptime": "99.96%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 924,
     "timeDay": 1734,
     "timeWeek": 1162,
     "timeMonth": 926,
     "timeYear": 924,
     "dailyMinutesDown": {
-      "2023-02-01": 6,
       "2023-01-11": 25
     }
   },
@@ -79,19 +78,19 @@
     "url": "http://hcm-speedtest01.sctv.com.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/hcm-speedtest01.sctv.com.vn.ico",
     "slug": "sctv",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 871,
     "timeDay": 734,
     "timeWeek": 978,
     "timeMonth": 894,
     "timeYear": 871,
     "dailyMinutesDown": {
-      "2023-02-01": 5
+      "2023-02-01": 1
     }
   },
   {
@@ -138,19 +137,19 @@
     "url": "http://speedtest3.vtn.com.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest3.vtn.com.vn.ico",
     "slug": "vnpt",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 908,
     "timeDay": 890,
     "timeWeek": 911,
     "timeMonth": 836,
     "timeYear": 908,
     "dailyMinutesDown": {
-      "2023-02-01": 5
+      "2023-02-01": 0
     }
   }
 ]
