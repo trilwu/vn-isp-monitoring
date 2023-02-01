@@ -58,9 +58,9 @@
     "url": "http://speedtest4.hcmc.netnam.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest4.hcmc.netnam.vn.ico",
     "slug": "net-nam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
@@ -70,6 +70,7 @@
     "timeMonth": 926,
     "timeYear": 924,
     "dailyMinutesDown": {
+      "2023-02-01": 0,
       "2023-01-11": 25
     }
   },
@@ -78,19 +79,19 @@
     "url": "http://hcm-speedtest01.sctv.com.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/hcm-speedtest01.sctv.com.vn.ico",
     "slug": "sctv",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 871,
-    "timeDay": 734,
-    "timeWeek": 978,
-    "timeMonth": 894,
-    "timeYear": 871,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 875,
+    "timeDay": 852,
+    "timeWeek": 989,
+    "timeMonth": 900,
+    "timeYear": 875,
     "dailyMinutesDown": {
-      "2023-02-01": 1
+      "2023-02-01": 22
     }
   },
   {
@@ -137,19 +138,19 @@
     "url": "http://speedtest3.vtn.com.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest3.vtn.com.vn.ico",
     "slug": "vnpt",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 908,
-    "timeDay": 890,
-    "timeWeek": 911,
-    "timeMonth": 836,
-    "timeYear": 908,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.55%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.97%",
+    "time": 904,
+    "timeDay": 816,
+    "timeWeek": 884,
+    "timeMonth": 831,
+    "timeYear": 904,
     "dailyMinutesDown": {
-      "2023-02-01": 0
+      "2023-02-01": 21
     }
   }
 ]
