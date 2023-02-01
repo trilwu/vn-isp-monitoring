@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 505,
     "timeDay": 483,
-    "timeWeek": 550,
+    "timeWeek": 556,
     "timeMonth": 512,
     "timeYear": 505,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 720,
     "timeDay": 597,
-    "timeWeek": 741,
+    "timeWeek": 729,
     "timeMonth": 720,
     "timeYear": 720,
     "dailyMinutesDown": {}
@@ -58,19 +58,19 @@
     "url": "http://speedtest4.hcmc.netnam.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest4.hcmc.netnam.vn.ico",
     "slug": "net-nam",
-    "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.95%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.96%",
     "time": 1092,
     "timeDay": 2921,
-    "timeWeek": 1837,
+    "timeWeek": 1922,
     "timeMonth": 1168,
     "timeYear": 1092,
     "dailyMinutesDown": {
-      "2023-02-01": 6,
+      "2023-02-01": 0,
       "2023-01-11": 25
     }
   },
@@ -87,7 +87,7 @@
     "uptimeYear": "99.97%",
     "time": 875,
     "timeDay": 852,
-    "timeWeek": 989,
+    "timeWeek": 904,
     "timeMonth": 900,
     "timeYear": 875,
     "dailyMinutesDown": {
@@ -107,7 +107,7 @@
     "uptimeYear": "99.93%",
     "time": 913,
     "timeDay": 826,
-    "timeWeek": 900,
+    "timeWeek": 790,
     "timeMonth": 905,
     "timeYear": 913,
     "dailyMinutesDown": {
@@ -128,7 +128,7 @@
     "uptimeYear": "100.00%",
     "time": 3081,
     "timeDay": 614,
-    "timeWeek": 2172,
+    "timeWeek": 1838,
     "timeMonth": 2886,
     "timeYear": 3081,
     "dailyMinutesDown": {}
