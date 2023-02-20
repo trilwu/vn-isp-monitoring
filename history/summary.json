@@ -103,9 +103,9 @@
     "url": "http://vnmhcmspt1.vietnamobile.com.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/vnmhcmspt1.vietnamobile.com.vn.ico",
     "slug": "vietnamobile",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.91%",
@@ -115,6 +115,7 @@
     "timeMonth": 777,
     "timeYear": 854,
     "dailyMinutesDown": {
+      "2023-02-20": 0,
       "2023-02-09": 42,
       "2023-01-30": 26,
       "2023-01-09": 18
@@ -134,7 +135,7 @@
     "time": 3077,
     "timeDay": 656,
     "timeWeek": 1849,
-    "timeMonth": 3106,
+    "timeMonth": 3046,
     "timeYear": 3077,
     "dailyMinutesDown": {}
   },
