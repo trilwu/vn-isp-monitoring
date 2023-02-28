@@ -40,9 +40,9 @@
     "url": "http://sp1.mobifone.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/sp1.mobifone.vn.ico",
     "slug": "mobifone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "99.83%",
@@ -52,6 +52,7 @@
     "timeMonth": 692,
     "timeYear": 707,
     "dailyMinutesDown": {
+      "2023-02-28": 0,
       "2023-02-10": 81,
       "2023-02-02": 97
     }
