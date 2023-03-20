@@ -6,7 +6,7 @@
     "slug": "cmc-telecom",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 473,
     "timeMonth": 542,
     "timeYear": 527,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-20": 0
+    }
   },
   {
     "name": "FPT Telecom",
@@ -105,18 +107,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/vnmhcmspt1.vietnamobile.com.vn.ico",
     "slug": "vietnamobile",
     "status": "up",
-    "uptime": "90.56%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "32.96%",
-    "uptimeMonth": "71.27%",
-    "uptimeYear": "90.56%",
+    "uptime": "90.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "36.08%",
+    "uptimeMonth": "71.29%",
+    "uptimeYear": "90.59%",
     "time": 1035,
-    "timeDay": 800,
-    "timeWeek": 1487,
+    "timeDay": 778,
+    "timeWeek": 1506,
     "timeMonth": 1225,
     "timeYear": 1035,
     "dailyMinutesDown": {
-      "2023-03-20": 8,
       "2023-03-18": 755,
       "2023-03-17": 1379,
       "2023-03-16": 1407,
