@@ -4,9 +4,9 @@
     "url": "http://hcmspeedtest.cmctelecom.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/hcmspeedtest.cmctelecom.vn.ico",
     "slug": "cmc-telecom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 479,
     "timeMonth": 541,
     "timeYear": 527,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-21": 0
+    }
   },
   {
     "name": "FPT Telecom",
@@ -105,14 +107,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/vnmhcmspt1.vietnamobile.com.vn.ico",
     "slug": "vietnamobile",
     "status": "up",
-    "uptime": "90.60%",
+    "uptime": "90.62%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "37.84%",
+    "uptimeWeek": "40.32%",
     "uptimeMonth": "71.29%",
-    "uptimeYear": "90.60%",
+    "uptimeYear": "90.62%",
     "time": 1033,
     "timeDay": 743,
-    "timeWeek": 1506,
+    "timeWeek": 1529,
     "timeMonth": 1225,
     "timeYear": 1033,
     "dailyMinutesDown": {
