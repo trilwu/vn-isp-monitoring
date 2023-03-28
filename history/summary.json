@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.84%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 656,
     "timeDay": 508,
-    "timeWeek": 2081,
+    "timeWeek": 532,
     "timeMonth": 992,
     "timeYear": 656,
     "dailyMinutesDown": {
@@ -113,7 +113,7 @@
     "uptimeMonth": "71.29%",
     "uptimeYear": "91.27%",
     "time": 1020,
-    "timeDay": 789,
+    "timeDay": 773,
     "timeWeek": 779,
     "timeMonth": 1226,
     "timeYear": 1020,
@@ -138,11 +138,11 @@
     "url": "http://speedtestkv3b.viettel.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtestkv3b.viettel.vn.ico",
     "slug": "viettel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2976,
     "timeDay": 732,
@@ -150,7 +150,7 @@
     "timeMonth": 2665,
     "timeYear": 2976,
     "dailyMinutesDown": {
-      "2023-03-28": 6
+      "2023-03-28": 0
     }
   },
   {
