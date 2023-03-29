@@ -138,19 +138,19 @@
     "url": "http://speedtestkv3b.viettel.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtestkv3b.viettel.vn.ico",
     "slug": "viettel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2868,
-    "timeDay": 1397,
-    "timeWeek": 1759,
-    "timeMonth": 2391,
-    "timeYear": 2868,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 2854,
+    "timeDay": 1038,
+    "timeWeek": 1725,
+    "timeMonth": 2359,
+    "timeYear": 2854,
     "dailyMinutesDown": {
-      "2023-03-29": 0
+      "2023-03-29": 9
     }
   },
   {
