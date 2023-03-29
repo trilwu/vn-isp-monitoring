@@ -107,11 +107,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vnmhcmspt1.vietnamobile.com.vn.ico",
     "slug": "vietnamobile",
     "status": "up",
-    "uptime": "91.34%",
+    "uptime": "91.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "71.29%",
-    "uptimeYear": "91.34%",
+    "uptimeYear": "91.36%",
     "time": 1019,
     "timeDay": 832,
     "timeWeek": 787,
@@ -138,18 +138,20 @@
     "url": "http://speedtestkv3b.viettel.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtestkv3b.viettel.vn.ico",
     "slug": "viettel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2868,
-    "timeDay": 1317,
+    "timeDay": 1397,
     "timeWeek": 1759,
     "timeMonth": 2391,
     "timeYear": 2868,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-29": 0
+    }
   },
   {
     "name": "VNPT",
