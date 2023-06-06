@@ -25,9 +25,9 @@
     "url": "http://speedtest.fpt.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.fpt.vn.ico",
     "slug": "fpt-telecom",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 740,
     "timeMonth": 771,
     "timeYear": 744,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-06": 0
+    }
   },
   {
     "name": "Mobifone",
