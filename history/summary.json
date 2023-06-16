@@ -33,7 +33,7 @@
     "uptimeYear": "99.94%",
     "time": 741,
     "timeDay": 646,
-    "timeWeek": 713,
+    "timeWeek": 765,
     "timeMonth": 745,
     "timeYear": 741,
     "dailyMinutesDown": {
@@ -75,7 +75,7 @@
     "time": 1144,
     "timeDay": 1274,
     "timeWeek": 976,
-    "timeMonth": 1041,
+    "timeMonth": 1042,
     "timeYear": 1144,
     "dailyMinutesDown": {
       "2023-05-17": 19,
@@ -112,15 +112,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vnmhcmspt1.vietnamobile.com.vn.ico",
     "slug": "vietnamobile",
     "status": "up",
-    "uptime": "94.52%",
+    "uptime": "94.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "94.52%",
+    "uptimeYear": "94.53%",
     "time": 988,
     "timeDay": 853,
     "timeWeek": 947,
-    "timeMonth": 847,
+    "timeMonth": 854,
     "timeYear": 988,
     "dailyMinutesDown": {
       "2023-05-16": 75,
@@ -169,9 +169,9 @@
     "url": "http://speedtest3.vtn.com.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest3.vtn.com.vn.ico",
     "slug": "vnpt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -181,6 +181,7 @@
     "timeMonth": 1012,
     "timeYear": 881,
     "dailyMinutesDown": {
+      "2023-06-16": 0,
       "2023-02-01": 21
     }
   }
