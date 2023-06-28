@@ -66,9 +66,9 @@
     "url": "http://speedtest4.hcmc.netnam.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest4.hcmc.netnam.vn.ico",
     "slug": "net-nam",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
@@ -78,6 +78,7 @@
     "timeMonth": 1146,
     "timeYear": 1156,
     "dailyMinutesDown": {
+      "2023-06-28": 0,
       "2023-06-24": 17,
       "2023-05-17": 19,
       "2023-05-10": 21,
@@ -93,9 +94,9 @@
     "slug": "sctv",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 906,
     "timeDay": 821,
@@ -103,7 +104,6 @@
     "timeMonth": 915,
     "timeYear": 906,
     "dailyMinutesDown": {
-      "2023-06-28": 8,
       "2023-03-13": 79,
       "2023-02-01": 22
     }
