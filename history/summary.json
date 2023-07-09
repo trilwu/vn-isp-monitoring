@@ -4,9 +4,9 @@
     "url": "http://hcmspeedtest.cmctelecom.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/hcmspeedtest.cmctelecom.vn.ico",
     "slug": "cmc-telecom",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 596,
     "timeYear": 625,
     "dailyMinutesDown": {
+      "2023-07-09": 0,
       "2023-04-11": 29,
       "2023-03-21": 16
     }
@@ -34,7 +35,7 @@
     "time": 749,
     "timeDay": 733,
     "timeWeek": 762,
-    "timeMonth": 791,
+    "timeMonth": 806,
     "timeYear": 749,
     "dailyMinutesDown": {
       "2023-06-06": 160
@@ -113,11 +114,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/vnmhcmspt1.vietnamobile.com.vn.ico",
     "slug": "vietnamobile",
     "status": "up",
-    "uptime": "95.14%",
+    "uptime": "95.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "95.14%",
+    "uptimeYear": "95.15%",
     "time": 982,
     "timeDay": 1001,
     "timeWeek": 900,
