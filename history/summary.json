@@ -92,18 +92,19 @@
     "url": "http://hcm-speedtest01.sctv.com.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/hcm-speedtest01.sctv.com.vn.ico",
     "slug": "sctv",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeYear": "99.97%",
     "time": 910,
     "timeDay": 944,
     "timeWeek": 854,
     "timeMonth": 844,
     "timeYear": 910,
     "dailyMinutesDown": {
+      "2023-09-23": 1,
       "2023-03-13": 79,
       "2023-02-01": 22
     }
@@ -173,9 +174,9 @@
     "url": "http://speedtest3.vtn.com.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest3.vtn.com.vn.ico",
     "slug": "vnpt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -185,6 +186,7 @@
     "timeMonth": 995,
     "timeYear": 910,
     "dailyMinutesDown": {
+      "2023-09-23": 0,
       "2023-02-01": 21
     }
   }
