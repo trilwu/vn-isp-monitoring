@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 645,
-    "timeDay": 760,
-    "timeWeek": 735,
-    "timeMonth": 711,
+    "time": 646,
+    "timeDay": 728,
+    "timeWeek": 734,
+    "timeMonth": 716,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2023-09-14": 170,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 792,
-    "timeDay": 716,
-    "timeWeek": 811,
-    "timeMonth": 863,
+    "timeDay": 813,
+    "timeWeek": 845,
+    "timeMonth": 850,
     "timeYear": 789,
     "dailyMinutesDown": {
       "2023-06-06": 160
@@ -53,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 811,
-    "timeDay": 922,
-    "timeWeek": 933,
-    "timeMonth": 1004,
+    "timeDay": 818,
+    "timeWeek": 937,
+    "timeMonth": 1005,
     "timeYear": 823,
     "dailyMinutesDown": {
       "2023-02-10": 81,
@@ -68,16 +68,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/speedtest4.hcmc.netnam.vn.ico",
     "slug": "net-nam",
     "status": "up",
-    "uptime": "97.30%",
+    "uptime": "97.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "63.87%",
     "uptimeYear": "96.98%",
     "time": 1140,
-    "timeDay": 1302,
-    "timeWeek": 1285,
-    "timeMonth": 1166,
-    "timeYear": 1167,
+    "timeDay": 957,
+    "timeWeek": 1229,
+    "timeMonth": 1158,
+    "timeYear": 1169,
     "dailyMinutesDown": {
       "2024-01-22": 425,
       "2024-01-21": 1440,
@@ -95,8 +95,7 @@
       "2023-06-24": 17,
       "2023-05-17": 19,
       "2023-05-10": 21,
-      "2023-02-02": 11,
-      "2023-02-01": 4
+      "2023-02-02": 11
     }
   },
   {
@@ -110,14 +109,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 943,
-    "timeDay": 695,
-    "timeWeek": 1168,
-    "timeMonth": 1090,
+    "time": 942,
+    "timeDay": 754,
+    "timeWeek": 1124,
+    "timeMonth": 1078,
     "timeYear": 951,
     "dailyMinutesDown": {
-      "2023-03-13": 79,
-      "2023-02-01": 22
+      "2023-03-13": 79
     }
   },
   {
@@ -126,15 +124,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/vnmhcmspt1.vietnamobile.com.vn.ico",
     "slug": "vietnamobile",
     "status": "up",
-    "uptime": "97.16%",
+    "uptime": "97.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.82%",
     "time": 964,
-    "timeDay": 773,
-    "timeWeek": 1056,
-    "timeMonth": 1104,
+    "timeDay": 911,
+    "timeWeek": 1067,
+    "timeMonth": 1093,
     "timeYear": 970,
     "dailyMinutesDown": {
       "2023-08-04": 1061,
@@ -169,11 +167,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1572,
-    "timeDay": 1647,
-    "timeWeek": 1388,
-    "timeMonth": 1297,
-    "timeYear": 1364,
+    "time": 1570,
+    "timeDay": 841,
+    "timeWeek": 1315,
+    "timeMonth": 1286,
+    "timeYear": 1365,
     "dailyMinutesDown": {
       "2023-06-03": 80
     }
@@ -189,14 +187,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 949,
-    "timeDay": 1458,
-    "timeWeek": 1212,
-    "timeMonth": 1046,
+    "time": 948,
+    "timeDay": 861,
+    "timeWeek": 1136,
+    "timeMonth": 1049,
     "timeYear": 954,
     "dailyMinutesDown": {
-      "2023-12-01": 234,
-      "2023-02-01": 21
+      "2023-12-01": 234
     }
   }
 ]
