@@ -1,7 +1,7 @@
 url: http://speedtestkv3b.viettel.vn:8080
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-13T17:58:22.603Z
+status: up
+code: 200
+responseTime: 775
+lastUpdated: 2024-12-13T18:21:10.063Z
 startTime: 2022-12-17T10:23:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
