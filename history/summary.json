@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hcmspeedtest.cmctelecom.vn.ico",
     "slug": "cmc-telecom",
     "status": "up",
-    "uptime": "91.69%",
+    "uptime": "91.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -410,9 +410,9 @@
     "url": "http://speedtest3.vtn.com.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest3.vtn.com.vn.ico",
     "slug": "vnpt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
@@ -422,6 +422,7 @@
     "timeMonth": 999,
     "timeYear": 1036,
     "dailyMinutesDown": {
+      "2025-01-09": 0,
       "2024-12-26": 49,
       "2024-05-01": 15
     }
