@@ -410,11 +410,11 @@
     "url": "http://speedtest3.vtn.com.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest3.vtn.com.vn.ico",
     "slug": "vnpt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "97.55%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
     "time": 1035,
     "timeDay": 1000,
@@ -422,7 +422,7 @@
     "timeMonth": 1004,
     "timeYear": 1036,
     "dailyMinutesDown": {
-      "2025-01-09": 35,
+      "2025-01-09": 29,
       "2024-12-26": 49,
       "2024-05-01": 15
     }
