@@ -95,11 +95,11 @@
     "url": "http://speedtest.fpt.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest.fpt.vn.ico",
     "slug": "fpt-telecom",
-    "status": "up",
+    "status": "down",
     "uptime": "99.08%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.43%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.44%",
     "uptimeYear": "98.06%",
     "time": 857,
     "timeDay": 964,
@@ -107,7 +107,7 @@
     "timeMonth": 1028,
     "timeYear": 851,
     "dailyMinutesDown": {
-      "2025-02-10": 7,
+      "2025-02-10": 1,
       "2025-01-27": 245,
       "2024-05-23": 795,
       "2024-05-22": 811,
@@ -124,11 +124,11 @@
     "url": "http://sp1.mobifone.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/sp1.mobifone.vn.ico",
     "slug": "mobifone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 916,
     "timeDay": 962,
@@ -136,7 +136,7 @@
     "timeMonth": 1149,
     "timeYear": 920,
     "dailyMinutesDown": {
-      "2025-02-10": 7
+      "2025-02-10": 1
     }
   },
   {
@@ -149,7 +149,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "56.04%",
+    "uptimeYear": "56.05%",
     "time": 1200,
     "timeDay": 1637,
     "timeWeek": 1373,
