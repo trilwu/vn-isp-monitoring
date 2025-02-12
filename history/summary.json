@@ -6,9 +6,9 @@
     "slug": "cmc-telecom",
     "status": "up",
     "uptime": "92.05%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "82.89%",
     "time": 760,
     "timeDay": 882,
@@ -16,7 +16,6 @@
     "timeMonth": 1162,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2025-02-11": 7,
       "2024-11-28": 35,
       "2024-10-27": 28,
       "2024-10-07": 645,
@@ -147,7 +146,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "56.40%",
+    "uptimeYear": "56.41%",
     "time": 1201,
     "timeDay": 1326,
     "timeWeek": 1397,
@@ -311,8 +310,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
