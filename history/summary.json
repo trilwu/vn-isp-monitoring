@@ -63,19 +63,19 @@
     "url": "http://sp1.mobifone.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/sp1.mobifone.vn.ico",
     "slug": "mobifone",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1014,
-    "timeDay": 4650,
-    "timeWeek": 2329,
-    "timeMonth": 1451,
+    "timeDay": 3754,
+    "timeWeek": 2202,
+    "timeMonth": 1440,
     "timeYear": 1065,
     "dailyMinutesDown": {
-      "2025-08-21": 0
+      "2025-08-21": 10
     }
   },
   {
@@ -104,7 +104,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hcm-speedtest01.sctv.com.vn.ico",
     "slug": "sctv",
     "status": "down",
-    "uptime": "86.98%",
+    "uptime": "86.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -115,7 +115,7 @@
     "timeMonth": 0,
     "timeYear": 1108,
     "dailyMinutesDown": {
-      "2025-08-21": 607,
+      "2025-08-21": 617,
       "2025-08-20": 1440,
       "2025-08-19": 1440,
       "2025-08-18": 1440,
