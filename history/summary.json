@@ -54,11 +54,11 @@
     "url": "http://sp1.mobifone.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/sp1.mobifone.vn.ico",
     "slug": "mobifone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1019,
     "timeDay": 1025,
@@ -66,7 +66,7 @@
     "timeMonth": 1421,
     "timeYear": 1072,
     "dailyMinutesDown": {
-      "2025-08-30": 11
+      "2025-08-30": 0
     }
   },
   {
@@ -76,17 +76,17 @@
     "slug": "net-nam",
     "status": "down",
     "uptime": "82.12%",
-    "uptimeDay": "42.17%",
-    "uptimeWeek": "91.74%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "99.84%",
+    "uptimeDay": "40.13%",
+    "uptimeWeek": "91.45%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "99.83%",
     "time": 1214,
     "timeDay": 979,
     "timeWeek": 1231,
     "timeMonth": 1189,
     "timeYear": 1231,
     "dailyMinutesDown": {
-      "2025-08-30": 833,
+      "2025-08-30": 862,
       "2025-04-19": 23
     }
   },
@@ -107,7 +107,7 @@
     "timeMonth": 0,
     "timeYear": 1115,
     "dailyMinutesDown": {
-      "2025-08-30": 1119,
+      "2025-08-30": 1149,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
