@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/hcmspeedtest.cmctelecom.vn.ico",
     "slug": "cmc-telecom",
     "status": "up",
-    "uptime": "93.65%",
+    "uptime": "93.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -54,19 +54,19 @@
     "url": "http://sp1.mobifone.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/sp1.mobifone.vn.ico",
     "slug": "mobifone",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1016,
+    "time": 1017,
     "timeDay": 753,
     "timeWeek": 934,
     "timeMonth": 1356,
     "timeYear": 1068,
     "dailyMinutesDown": {
-      "2025-08-30": 6
+      "2025-08-30": 0
     }
   },
   {
@@ -76,17 +76,17 @@
     "slug": "net-nam",
     "status": "down",
     "uptime": "82.11%",
-    "uptimeDay": "32.30%",
-    "uptimeWeek": "90.33%",
-    "uptimeMonth": "97.77%",
-    "uptimeYear": "99.81%",
+    "uptimeDay": "29.03%",
+    "uptimeWeek": "89.86%",
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "99.80%",
     "time": 1214,
     "timeDay": 979,
     "timeWeek": 1231,
     "timeMonth": 1189,
     "timeYear": 1231,
     "dailyMinutesDown": {
-      "2025-08-30": 975,
+      "2025-08-30": 1022,
       "2025-04-19": 23
     }
   },
@@ -107,7 +107,7 @@
     "timeMonth": 0,
     "timeYear": 1115,
     "dailyMinutesDown": {
-      "2025-08-30": 1261,
+      "2025-08-30": 1309,
       "2025-08-29": 1440,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
