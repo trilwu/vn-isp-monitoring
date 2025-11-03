@@ -71,14 +71,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.05%",
+    "uptimeYear": "82.04%",
     "time": 1214,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1214,
     "dailyMinutesDown": {
-      "2025-11-03": 1031,
+      "2025-11-03": 1052,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -164,7 +164,7 @@
     "timeMonth": 0,
     "timeYear": 1134,
     "dailyMinutesDown": {
-      "2025-11-03": 1031,
+      "2025-11-03": 1052,
       "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
@@ -414,14 +414,14 @@
     "url": "http://speedtest3.vtn.com.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest3.vtn.com.vn.ico",
     "slug": "vnpt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "77.40%",
+    "uptimeDay": "77.38%",
     "uptimeWeek": "70.23%",
-    "uptimeMonth": "91.02%",
+    "uptimeMonth": "91.06%",
     "uptimeYear": "99.25%",
-    "time": 1071,
-    "timeDay": 998,
+    "time": 1072,
+    "timeDay": 989,
     "timeWeek": 1037,
     "timeMonth": 1040,
     "timeYear": 1081,
@@ -437,7 +437,7 @@
       "2025-10-26": 235,
       "2025-10-25": 178,
       "2025-10-24": 228,
-      "2025-10-23": 145
+      "2025-10-23": 126
     }
   }
 ]
