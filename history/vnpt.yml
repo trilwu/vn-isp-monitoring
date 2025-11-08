@@ -1,7 +1,7 @@
 url: http://speedtest3.vtn.com.vn:8080
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-11-08T17:30:24.658Z
+status: up
+code: 200
+responseTime: 834
+lastUpdated: 2025-11-08T17:37:26.567Z
 startTime: 2022-12-17T10:23:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
