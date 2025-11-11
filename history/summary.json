@@ -78,7 +78,7 @@
     "timeMonth": 0,
     "timeYear": 1215,
     "dailyMinutesDown": {
-      "2025-11-11": 997,
+      "2025-11-11": 1008,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
@@ -172,7 +172,7 @@
     "timeMonth": 0,
     "timeYear": 1148,
     "dailyMinutesDown": {
-      "2025-11-11": 997,
+      "2025-11-11": 1008,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
       "2025-11-08": 1440,
@@ -430,11 +430,11 @@
     "url": "http://speedtest3.vtn.com.vn:8080",
     "icon": "https://icons.duckduckgo.com/ip3/speedtest3.vtn.com.vn.ico",
     "slug": "vnpt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "86.95%",
+    "uptimeDay": "86.93%",
     "uptimeWeek": "92.93%",
-    "uptimeMonth": "91.32%",
+    "uptimeMonth": "91.37%",
     "uptimeYear": "99.28%",
     "time": 1076,
     "timeDay": 959,
@@ -455,7 +455,7 @@
       "2025-10-31": 199,
       "2025-10-30": 585,
       "2025-10-29": 1296,
-      "2025-10-28": 45
+      "2025-10-28": 24
     }
   }
 ]
